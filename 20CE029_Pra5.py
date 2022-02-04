@@ -1,5 +1,5 @@
 # 20CE029 Misari Gami
-# GitHub repository link : 
+# GitHub repository link : https://github.com/MisariGami/Pra5/blob/main/20CE029_Pra5.py
 
 # You are given a string and your task is to swap cases. In other words, convert all lowercase letters to uppercase letters and vice versa. 
 
